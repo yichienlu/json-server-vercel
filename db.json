@@ -1655,7 +1655,7 @@
       "chakra": [
         "頂輪"
       ],
-      "color": "url('/assets/images/crystals/_拉長石.png')",
+      "color": "url('./assets/images/crystals/_拉長石.png')",
       "bead": [
         [
           7,
@@ -1696,7 +1696,7 @@
         "喉輪",
         "心輪"
       ],
-      "color": "url('/assets/images/crystals/_孔雀石.png')",
+      "color": "url('./assets/images/crystals/_孔雀石.png')",
       "bead": [
         [
           8,
@@ -1716,7 +1716,7 @@
       "chakra": [
         "眉心輪"
       ],
-      "color": "url('/assets/images/crystals/_藍銅礦.png')",
+      "color": "url('./assets/images/crystals/_藍銅礦.png')",
       "bead": [
         [
           8,
@@ -1736,7 +1736,7 @@
       "chakra": [
         "心輪"
       ],
-      "color": "url('/assets/images/crystals/_紅紋石.png')",
+      "color": "url('./assets/images/crystals/_紅紋石.png')",
       "bead": [
         [
           7,
@@ -1753,7 +1753,7 @@
         "頂輪",
         "心輪"
       ],
-      "color": "url('/assets/images/crystals/_草莓晶.png')",
+      "color": "url('./assets/images/crystals/_草莓晶.png')",
       "bead": [
         [
           7,
@@ -1774,7 +1774,7 @@
         "臍輪",
         "腹輪"
       ],
-      "color": "url('/assets/images/crystals/_黃虎眼.png')",
+      "color": "url('./assets/images/crystals/_黃虎眼.png')",
       "bead": [
         [
           6,
@@ -1794,7 +1794,7 @@
       "chakra": [
         "喉輪"
       ],
-      "color": "url('/assets/images/crystals/_藍虎眼.png')",
+      "color": "url('./assets/images/crystals/_藍虎眼.png')",
       "bead": [
         [
           6,
@@ -1814,7 +1814,7 @@
       "chakra": [
         "眉心輪"
       ],
-      "color": "url('/assets/images/crystals/_青金石.png')",
+      "color": "url('./assets/images/crystals/_青金石.png')",
       "bead": [
         [
           6,
@@ -1855,7 +1855,7 @@
         "頂輪",
         "眉心輪"
       ],
-      "color": "url('/assets/images/crystals/_舒俱來.png')",
+      "color": "url('./assets/images/crystals/_舒俱來.png')",
       "bead": [
         [
           6,
@@ -1916,7 +1916,7 @@
       "chakra": [
         "頂輪"
       ],
-      "color": "url('/assets/images/crystals/_螢石.png')",
+      "color": "url('./assets/images/crystals/_螢石.png')",
       "bead": [
         [
           6,
@@ -1978,7 +1978,7 @@
         "臍輪",
         "腹輪"
       ],
-      "color": "url('/assets/images/crystals/_紅髮晶.png')",
+      "color": "url('./assets/images/crystals/_紅髮晶.png')",
       "bead": [
         [
           6,
