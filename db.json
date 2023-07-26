@@ -2653,7 +2653,7 @@
     {
       "id": 1,
       "email": "YC@gmail.com",
-      "password": "$2a$10$eGenGFn4dPSuou6NEj7tUetxDh0BZlhfOWSqGaCG.lRVs6uQLuSGm",
+      "password": "$2a$10$OLQDjiUfcYqkshqC5P/se.LDgXuJsOEb8YFsiVJ6IxpaqgYzTaKQK",
       "test_result": [
         9,
         24,
@@ -2748,7 +2748,7 @@
     },
     {
       "email": "katelyn@crystal.com",
-      "password": "$2a$10$88QO1ygrT9vXYOslWZe.ouwnSQGAt8jYs1NgQxLw7TFvOF5.Kf53O",
+      "password": "$2a$10$fBpzSvMQSmTjkmZ7f49asu4ULZKDH..SR1O93kS8UE8hEOPce1C1S",
       "birthday": "1987-06-05",
       "test_result": [
         10,
